@@ -36,3 +36,7 @@ p {
 .footer {
   text-align: right;
 }
+
+a { color: Aquamarine; }
+a:visited { color: Aquamarine; }
+a:hover { color: Aquamarine; }​
